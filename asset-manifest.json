@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-vr/static/css/main.2c5d23bd.css",
+    "main.js": "/react-vr/static/js/main.77e7b613.js",
+    "static/media/video.mp4": "/react-vr/static/media/video.e88cd335014875858991.mp4",
+    "index.html": "/react-vr/index.html",
+    "main.2c5d23bd.css.map": "/react-vr/static/css/main.2c5d23bd.css.map",
+    "main.77e7b613.js.map": "/react-vr/static/js/main.77e7b613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c5d23bd.css",
+    "static/js/main.77e7b613.js"
+  ]
+}
