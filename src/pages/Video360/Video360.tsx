@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from 'react';
 // @ts-ignore
 import { Scene } from 'aframe-react';
 import { Loader } from '../../shared/ui/Loader';
-import Video from './video.mp4';
+import Video from './video.webm';
 
 import styles from './Video360.module.scss';
 

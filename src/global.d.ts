@@ -41,4 +41,9 @@ declare module '*.mp4' {
   export default src;
 }
 
+declare module '*.webm' {
+  const src: string;
+  export default src;
+}
+
 declare module '*.scss';
