@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from 'react';
 // @ts-ignore
 import { Scene } from 'aframe-react';
 import { Loader } from '../../shared/ui/Loader';
-import Video from './video.webm';
+// import Video from './video.webm';
 
 import styles from './Video360.module.scss';
 
@@ -58,7 +58,7 @@ export const Video360 = () => {
 
       <Scene>
         <a-assets ref={assetsRef}>
-          <video id="videoEntity" ref={videoRef} src={Video} preload="auto" />
+          {/*<video id="videoEntity" ref={videoRef} src={Video} preload="auto" />*/}
         </a-assets>
 
         <a-camera reverse-mouse-drag="true" />
